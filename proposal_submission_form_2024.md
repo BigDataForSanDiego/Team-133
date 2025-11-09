@@ -1,15 +1,15 @@
 ### 2025 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 133  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: Audit Vision    
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: tpatil17
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members Tanishq, Prem, Surbhi
 
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### A dashboard that helps an NGO or welfare org visualise expenditure, resource allocation, predict future costs and resource requirements. It also allows the community to see the organisations reach and requirements establishing trust and transperncy between orgs and community.
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
@@ -30,13 +30,12 @@
 - [ ] Safety and Community Engagement
 > - Solutions to increase personal safety, prevent violence, and foster community support and empathy networks for homeless people.
 > - Question: How might we design technological solutions that improve safety for unhoused individuals, reduce violence, and build empathy and community support through storytelling, social engagement, or civic partnerships?
-- [ ] Data-Driven Policy and User-Centered Resource Planning
+- [X] Data-Driven Policy and User-Centered Resource Planning
 > - Use of geospatial and demographic data to better understand homeless population trends, optimize resource allocation, and support policy advocacy.
 > - Question: How can we use geospatial data, census data, and AI to map trends in homelessness, identify service gaps, and support equitable decision making and public advocacy
-- [ ] Other Possible Topics
+- [X] Other Possible Topics
 > - Improving digital equity and resource accessibility
 > - Helping youth homelessness and at-risk populations
 > - Providing mobile health clinics and telehealth expansion kits
 > - Increasing climate resilience for unhoused communities
-> - Others
-
+> - Others: Helping wellfare orgs manage resources and be more transparent with the community by highlighting their works and needs
